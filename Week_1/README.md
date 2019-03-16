@@ -3,6 +3,7 @@
 ## 7 Kyu
 
 [Highest Profit Wins](https://www.codewars.com/kata/the-highest-profit-wins/train/javascript)
+
 [Remove the minimum](https://www.codewars.com/kata/remove-the-minimum/train/javascript)
 
 ## 6 Kyu
